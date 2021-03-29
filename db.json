@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jodhi",
+      "alamat": "Sukabumi",
+      "umur": 23,
+      "telp": "085795739668"
+    },
+    {
+      "id": 2,
+      "name": "Esti Etikaningtyas",
+      "alamat": "Purworejo",
+      "umur": 24,
+      "telp": "085795738779"
+    },
+    {
+      "id": 3,
+      "name": "Ukung",
+      "alamat": "Depok",
+      "umur": 36,
+      "telp": "085795732329"
+    },
+    {
+      "id": 4,
+      "name": "Dede",
+      "alamat": "Bogor",
+      "umur": 27,
+      "telp": "0857957334238"
+    },
+    {
+      "id": 5,
+      "name": "Bayu",
+      "alamat": "Bogor",
+      "umur": 23,
+      "telp": "085795739668"
+    },
+    {
+      "id": 6,
+      "name": "Dewi",
+      "alamat": "Purworejo",
+      "umur": 24,
+      "telp": "085795738779"
+    },
+    {
+      "id": 7,
+      "name": "Awal",
+      "alamat": "Bogor",
+      "umur": 36,
+      "telp": "085795732329"
+    },
+    {
+      "id": 8,
+      "name": "Adit",
+      "alamat": "Bogor",
+      "umur": 27,
+      "telp": "0857957334238"
+    },
+    {
+      "id": 9,
+      "name": "Adil",
+      "alamat": "Bogor",
+      "umur": 23,
+      "telp": "085795739668"
+    },
+    {
+      "id": 10,
+      "name": "Rifki",
+      "alamat": "Purworejo",
+      "umur": 24,
+      "telp": "085795738779"
+    },
+    {
+      "id": 11,
+      "name": "Rajaka",
+      "alamat": "Depok",
+      "umur": 36,
+      "telp": "085795732329"
+    }
+  ]
+}
